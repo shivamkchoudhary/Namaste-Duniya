@@ -1,0 +1,7 @@
+# Pizza is an open-source superset of Java 1.4
+
+class HelloWorld {
+  public static void main(String[] args) {
+    System.out.println("Hello World");
+  }
+}
