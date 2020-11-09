@@ -1,0 +1,6 @@
+NamasteDuniya is a zombie
+summon
+  task SayNamaste
+    say "Namaste, Duniya"
+  animate
+animate
